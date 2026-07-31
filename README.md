@@ -1,19 +1,69 @@
-<h1 align="center">Hi 👋, I'm Hüseyin KERVAN</h1>
-<h3 align="center">A Devops Engineer</h3>
+<h1 align="center">Hi, I'm Hüseyin 👋</h1>
+<h3 align="center">Senior DevOps / Platform Engineer · Kubernetes · AWS · Multi-Cloud</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinkervan&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinkervan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyinkervan" alt="huseyinkervan" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <sub>8+ years building secure, scalable, automated cloud infrastructure across airline, telecom, retail & software.</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/huseyinkervan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Relocation-2EA043?style=flat">
+  <img src="https://img.shields.io/badge/Based%20in-Ankara,%20T%C3%BCrkiye-555?style=flat">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinkervan&show_icons=true&locale=en&layout=compact" alt="huseyinkervan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinkervan&show_icons=true&locale=en" alt="huseyinkervan" /></p>
+### 🚀 What I do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinkervan&" alt="huseyinkervan" /></p>
+I design and operate the platforms that production systems run on: Kubernetes clusters,
+Infrastructure as Code, GitOps delivery, observability, and the automation that keeps it
+all reliable and cost-efficient. I've led enterprise cloud migrations, built multi-account
+AWS environments, and cut cloud spend by 20–30% without sacrificing reliability.
+
+Lately I've been applying platform engineering to **ML/GPU workloads** — building the
+infrastructure behind a commercial Turkish text-to-speech product.
+
+### 🔧 Tech I work with
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+### 📌 Featured project
+
+**[turkish-tts-platform-infra](https://github.com/huseyinkervan/turkish-tts-platform-infra)** —
+Production platform for a commercial Turkish TTS product. EKS + Terraform, ArgoCD GitOps,
+Istio canary routing, GPU training on cloud spot instances, an **MLOps quality gate** that
+blocks model regressions in CI, and product-level SLOs. A real-world example of platform
+engineering applied to ML infrastructure.
+
+### 🏅 Certifications
+
+`AWS Solutions Architect – Professional` · `AWS DevOps Engineer – Professional` ·
+`Azure Solutions Architect Expert` · `CKA` · `CKAD` ·
+`AWS Solutions Architect – Associate` · `AWS Developer – Associate`
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huseyinkervan&show_icons=true&hide_border=true&theme=default">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinkervan&layout=compact&hide_border=true&theme=default">
+</p>
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/huseyinkervan/) · huseyin.kervan@outlook.com
+
+<sub>Open to Senior DevOps / Platform Engineering roles — fully remote or with relocation.</sub>
